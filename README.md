@@ -5,7 +5,7 @@
 ### Live Demonstraction of Maze-Runner
 The Good maze with a path to move from one corner to other corner.
 <p align="center">
-  <img src="https://github.com/RANJEET16520/MazeRunner/blob/master/Images/Good_Input.png"/>
+  <img src="https://github.com/RANJEET16520/Periodic-Table/blob/master/Images/Table.png"/>
 </p>
 <p align="center">
   <img src="https://github.com/RANJEET16520/MazeRunner/blob/master/Images/Good_Grid.png"/>
