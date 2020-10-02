@@ -34,15 +34,15 @@ for Windows only
 
 + Open the Build folder.
 
-+ Copy the **Project.CPP** and paste the inside _C:\TURBOC3\BIN\PROJECT\_ in your computer where the TURBO C++ is installed.
++ Copy the "Project.CPP" and paste the inside "C:\TURBOC3\BIN\PROJECT\" in your computer where the TURBO C++ is installed.
 
 + Now launch the TURBO C++.
 
-+ Select the **File** title displayed on the header of TURBO C++.
++ Select the "File" title displayed on the header of TURBO C++.
 
-+ In **Name** option select the loaction as _C:\TURBOC3\BIN\*.CPP_ and press **Open**.
++ In "Name" option select the loaction as "C:\TURBOC3\BIN\*.CPP" and press "Open".
 
-+ Now Compile the program with Alt+F9 and Run it with Crtl+F9.
++ Now Compile the program with "Alt+F9" and Run it with "Crtl+F9".
 ```
 ```
 !!Enjoy!!.
