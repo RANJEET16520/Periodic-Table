@@ -4,7 +4,7 @@
 
 ### Live Demonstraction of Periodic-Table
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Periodic-Table/blob/master/Images/Good_Input.png"/>
+  <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Good_Input.png"/>
 </p>
 
 ### Technologies Used
