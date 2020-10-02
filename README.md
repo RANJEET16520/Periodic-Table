@@ -4,9 +4,14 @@
 
 ### Live Demonstraction of Periodic-Table
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Good_Input.png"/>
+  <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Table.png"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Hydrogen.png"/>
+</p>
+<p align="center">
+  <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Sodium.png"/>
+</p>
 ### Technologies Used
 
 ##### Requirements
