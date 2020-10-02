@@ -2,7 +2,7 @@
 
 ### Description
 
-### Live Demonstraction of Maze-Runner
+### Live Demonstraction of Periodic-Table
 
 
 ### Technologies Used
@@ -16,10 +16,6 @@
 ##### Setup to run
 
 + Extract zip file in your computer
-
-+ Open terminal/cmd prompt
-
-+ Goto that Path
 
 for Windows only
 ```
