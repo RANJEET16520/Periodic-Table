@@ -3,12 +3,18 @@
 ### Description
 
 ### Live Demonstraction of Periodic-Table
+
+#### Periodic Table
 <p align="center">
   <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Table.png"/>
 </p>
+
+#### Properties of Hydrogen
 <p align="center">
   <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Hydrogen.png"/>
 </p>
+
+#### Properties of Sodium
 <p align="center">
   <img src="https://github.com/RANJEET16520/Periodic-Table/blob/main/Images/Sodium.png"/>
 </p>
