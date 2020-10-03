@@ -44,6 +44,10 @@ for Windows only
 + Now Compile the program with "Alt+F9" and Run it with "Crtl+F9".
 ```
 ```
+When you run the program the output will be the Periodic Table. 
+You can watch the properties of each element by following the instruction as displayed in the User Interface.
+You press the Atomic number of the element and the properties will be displayed in another frame as shown in the example. 
+
 !!Enjoy!!.
 ```
 
