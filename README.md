@@ -1,6 +1,7 @@
 # Periodic-Table
 
 ### Description
+This Periodic table is designed with C++ and C++ Graphics for interactive GUI in TURBO C++. The periodic table is displayed as per standard format in the main frame with atomic name and atomic numbers of atoms. The perperties of individual element can be seen by selecting the atomic number and will be displayed in other frame. Be can also return back to main table as per
 
 ### Live Demonstraction of Periodic-Table
 
